@@ -1,0 +1,9 @@
+/****** PLACE YOUR CUSTOM STYLES HERE ******/
+@font-face {
+  font-family: 'Open Sans Condensed';
+  src: url('../fonts/OpenSansCondensed-Light.ttf');
+  
+}
+h1,a,i{
+	font-family: 'Open Sans Condensed';
+}
