@@ -2,8 +2,13 @@
 @font-face {
   font-family: 'Open Sans Condensed';
   src: url('../fonts/OpenSansCondensed-Light.ttf');
-  
+  /*font-family: "Lobster";
+  src: url('../fonts/Lobster-Regular.ttf');*/
 }
 h1,a,i{
 	font-family: 'Open Sans Condensed';
+}
+
+/*p, h1{
+  font-family: "Lobster";
 }
